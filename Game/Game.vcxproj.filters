@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{3f36109b-e02b-4e25-929e-1a544258e52f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine">
+      <UniqueIdentifier>{41cd2252-eefb-4aa7-a50d-ed502c8efc7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\GUI">
+      <UniqueIdentifier>{c0158619-dd60-42cb-a83b-918a6a3ee243}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\GUI\Button">
+      <UniqueIdentifier>{978e97eb-06bb-4e67-951c-1a17a103c4ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\GUI\MainMenu">
+      <UniqueIdentifier>{d6a7ec64-c7e8-4ab2-ac02-fa4d5c3d03c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\GUI\Panel">
+      <UniqueIdentifier>{73e06465-9c75-4742-aaa3-8aff78a0a5a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\GUI\Widget">
+      <UniqueIdentifier>{52bce354-9408-4409-8af0-76f09a222dea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\GUI\GUI">
+      <UniqueIdentifier>{796cc2a4-91d3-4808-9e18-649801151ea1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\GUI\GUIEntity">
+      <UniqueIdentifier>{4407fdd6-7e48-401c-8bc6-0a17128617d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Main">
+      <UniqueIdentifier>{4abdee00-be9b-4c79-be82-41e065df00d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Main\Map">
+      <UniqueIdentifier>{1f04d0c2-fff1-47ff-befd-88f959875fd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Main\Map\Mappings">
+      <UniqueIdentifier>{2a1198f8-5291-4f63-99c7-dad7fb615377}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Main\Map\Surface">
+      <UniqueIdentifier>{02c3f505-073f-4bbf-bcb0-b291bbee69d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Main\Map\Tile">
+      <UniqueIdentifier>{4519f48a-ef9f-431d-a9a8-57bf82bf1478}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Main\Objects">
+      <UniqueIdentifier>{a47a31df-a988-4323-9c50-bcfd981f90c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Main\Objects\Membrane">
+      <UniqueIdentifier>{3f871b00-8874-4908-981a-44e523e34201}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Main\Objects\Organelle">
+      <UniqueIdentifier>{ab212c6e-7b4e-4eeb-bd74-bb2d78ccaaef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\Game">
+      <UniqueIdentifier>{140c4aaa-3a5f-4b38-b503-0a28d9fb0f0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\States">
+      <UniqueIdentifier>{016e8cce-7ce3-4447-a692-a2488cef6fe1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\States\StateMainMenu">
+      <UniqueIdentifier>{a0a64b2e-2c5d-4255-8e8c-2dfb3b10f914}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\States\StatePlaying">
+      <UniqueIdentifier>{2207ea63-9dbb-4265-adee-1c15f329b9c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\Rendering">
+      <UniqueIdentifier>{e6c40d59-836c-412c-9184-fbbb7d009242}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\Rendering\Renderer">
+      <UniqueIdentifier>{32bb7a45-2f77-48eb-8987-d8d32aeede2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\Rendering\Entity">
+      <UniqueIdentifier>{531df692-8b28-4956-9543-d22a000c1d90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\Rendering\Renderable">
+      <UniqueIdentifier>{f906adfd-65df-4556-9b86-9da4283bb0e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\Rendering\Window">
+      <UniqueIdentifier>{1aebf496-c2c5-45a5-b4bc-f3912ef9ad5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\Rendering\Config">
+      <UniqueIdentifier>{f3f86f56-c079-43c3-93a5-d150cb096e5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Engine\States\StateMachine">
+      <UniqueIdentifier>{060dd49c-0d9b-4efa-8c6a-e99bd722d8de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Utility">
+      <UniqueIdentifier>{919b8ae5-39c0-4058-9825-e462f584b7e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Utility\Mass Storage">
+      <UniqueIdentifier>{36b6a6a9-e9ab-4063-8bc8-c7addc004d51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Utility\Mass Storage\ObjectStorage">
+      <UniqueIdentifier>{0617c5b9-f141-490e-80f0-b939d0420c4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Utility\Mass Storage\RenderableMap">
+      <UniqueIdentifier>{196bc6c1-6221-431b-b15e-3a5844993b91}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Renderable.cpp">
+      <Filter>Classes\Engine\Rendering\Renderable</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Classes\Engine\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="StateMainMenu.cpp">
+      <Filter>Classes\Engine\States\StateMainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Classes\Engine\Rendering\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>Classes\Engine\Rendering\Config</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Classes\Engine\GUI\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Classes\Engine\GUI\MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Panel.cpp">
+      <Filter>Classes\Engine\GUI\Panel</Filter>
+    </ClCompile>
+    <ClCompile Include="Widget.cpp">
+      <Filter>Classes\Engine\GUI\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectStorage.cpp">
+      <Filter>Classes\Utility\Mass Storage\ObjectStorage</Filter>
+    </ClCompile>
+    <ClCompile Include="Mappings.cpp">
+      <Filter>Classes\Main\Map\Mappings</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Classes\Main\Map\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="Surface.cpp">
+      <Filter>Classes\Main\Map\Surface</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Classes\Engine\Rendering\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Organelle.cpp">
+      <Filter>Classes\Main\Objects\Organelle</Filter>
+    </ClCompile>
+    <ClCompile Include="Membrane.cpp">
+      <Filter>Classes\Main\Objects\Membrane</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Classes\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>Classes\Engine\GUI\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIEntity.cpp">
+      <Filter>Classes\Engine\GUI\GUIEntity</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Classes\Engine\Rendering\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="StatePlaying.cpp">
+      <Filter>Classes\Engine\States\StatePlaying</Filter>
+    </ClCompile>
+    <ClCompile Include="StateMachine.cpp">
+      <Filter>Classes\Engine\States\StateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderableMap.cpp">
+      <Filter>Classes\Utility\Mass Storage\RenderableMap</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GlobalVariables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderable.h">
+      <Filter>Classes\Engine\Rendering\Renderable</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Classes\Engine\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="StateMainMenu.h">
+      <Filter>Classes\Engine\States\StateMainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="StatePlaying.h">
+      <Filter>Classes\Engine\States\StatePlaying</Filter>
+    </ClInclude>
+    <ClInclude Include="StateBase.h">
+      <Filter>Classes\Engine\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Classes\Engine\Rendering\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Classes\Engine\Rendering\Config</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Classes\Engine\GUI\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Classes\Engine\GUI\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="Panel.h">
+      <Filter>Classes\Engine\GUI\Panel</Filter>
+    </ClInclude>
+    <ClInclude Include="Widget.h">
+      <Filter>Classes\Engine\GUI\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectStorage.h">
+      <Filter>Classes\Utility\Mass Storage\ObjectStorage</Filter>
+    </ClInclude>
+    <ClInclude Include="Mappings.h">
+      <Filter>Classes\Main\Map\Mappings</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Classes\Main\Map\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Surface.h">
+      <Filter>Classes\Main\Map\Surface</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Classes\Engine\Rendering\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Organelle.h">
+      <Filter>Classes\Main\Objects\Organelle</Filter>
+    </ClInclude>
+    <ClInclude Include="Membrane.h">
+      <Filter>Classes\Main\Objects\Membrane</Filter>
+    </ClInclude>
+    <ClInclude Include="FixedObject.h">
+      <Filter>Classes\Main\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>Classes\Engine\GUI\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUIEntity.h">
+      <Filter>Classes\Engine\GUI\GUIEntity</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Classes\Engine\Rendering\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="StateMachine.h">
+      <Filter>Classes\Engine\States\StateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderableMap.h">
+      <Filter>Classes\Utility\Mass Storage\RenderableMap</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceMap.h">
+      <Filter>Classes\Utility\Mass Storage</Filter>
+    </ClInclude>
+    <ClInclude Include="Bin.h">
+      <Filter>Classes\Utility\Mass Storage</Filter>
+    </ClInclude>
+    <ClInclude Include="NonCopyable.h">
+      <Filter>Classes\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="ptr.h">
+      <Filter>Classes\Utility</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Game.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Ideas.txt">
+      <Filter>Classes\Engine\GUI</Filter>
+    </Text>
+    <Text Include="TODO.txt">
+      <Filter>Classes</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

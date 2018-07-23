@@ -1,0 +1,8 @@
+
+
+Possibly need texture coordinates to go along with the texture when multiple textures are combined into one
+For example, the button texture contains a normal and a clicked button texture. The button class could store one texture ref but 2 sets of texture coordinates.
+Texture coordinates would define the top left and bottom right corners of each sub-texture.
+Create a class which handles this?
+
+main menu next
